@@ -1,17 +1,5 @@
 
-# 👨‍💻 Kleber Gomes de Lima  
-
-📍 Barra de Jangada – Jaboatão dos Guararapes/PE  
-📱 (81) 98609-1503 (Ligação/WhatsApp)  
-📧 [klebergomes23@gmail.com](mailto:klebergomes23@gmail.com)  
-💼 [LinkedIn](#)  
-
----
-
-## 🎯 Objetivo  
-Atuar como **Desenvolvedor Júnior**, aplicando conhecimentos em **Java, Spring Boot e Angular**, com foco em desenvolvimento de soluções eficientes e escaláveis.  
-
----
+#  Kleber Gomes de Lima  
 
 ## 👨‍💻 Sobre mim  
 Sou **estudante de Análise e Desenvolvimento de Sistemas** (conclusão em 2026), com sólida experiência em **educação tecnológica e inclusão digital**.  
