@@ -19,8 +19,9 @@ Minha experiência em **educação tecnológica e inclusão digital** me trouxe 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🗃️ Banco de Dados  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗃️ Bancos de Dados  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ Ferramentas  
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
@@ -41,7 +42,7 @@ Nos meus repositórios, você vai descobrir:
 - 🎓 **Projetos acadêmicos** e **estudos dirigidos** em Java e Spring Boot  
 - ⚡ **Exercícios de POO** e lógica de programação  
 - 🌐 **Aplicações Full Stack** com Angular no frontend e Java no backend  
-- 🗃️ **Experimentos com banco de dados** MySQL  
+- 🗃️ **Experimentos com bancos de dados** MySQL e PostgreSQL  
 - 📖 **Materiais de estudo** e anotações de cursos  
 
 ---
@@ -72,7 +73,6 @@ Nos meus repositórios, você vai descobrir:
 ---
 
 ## 📬 Vamos conversar?  
-Estou sempre aberto a novas oportunidades, colaborações em projetos e conversas sobre tecnologia!  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klebergomes23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleber-gomes-171bb31a9/)
