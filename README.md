@@ -46,12 +46,6 @@ Nos meus repositórios, você vai descobrir:
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![Kleber's GitHub Stats](https://github-readme-stats.vercel.app/api?https://github.com/klebergomes34/&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
----
-
 ## 🎓 Formação  
 - **Análise e Desenvolvimento de Sistemas** – Conclusão em 2026  
 - **Técnico em Administração** – Concluído em 2011  
